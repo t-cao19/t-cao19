@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there! I'm Tony 👋
+
+Welcome to my profile! I am currently a Data Scientist Co-op at TELUS by day and a Computer Science & Math student at the University of Toronto by night. In my free time, I am also an avid baker!
 
 <!--
 **t-cao19/t-cao19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
