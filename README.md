@@ -1,4 +1,4 @@
-### Hi there! I'm Tony 👋
+# Hi there! I'm Tony 👋
 
 Welcome to my profile! I am currently a Data Scientist Co-op at TELUS by day and a Computer Science & Math student at the University of Toronto by night. In my free time, I am also an avid baker!
 
