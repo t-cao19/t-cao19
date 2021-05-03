@@ -1,12 +1,14 @@
 # Hi there! I'm Tony ✈️✈️✈️
 
-Welcome to my profile! I am a 3rd year Computer Science *(software engineering specialist)* and Math *(major)* at the University of Toronto. I have a passion for front-end development, CS + Math education and baking! 🍰🍪
+Welcome to my profile! I am a 4th year Computer Science *(software engineering specialist)* and Math *(major)* at the University of Toronto. I have a passion for front-end development, CS + Math education and baking! 🍰🍪
 
 ## Relevant Work Experience + Activites
-📚 Math Teaching Assistant (MATA37 - Calculus for Mathematical Sciences) @UTSC    
-📖 Facilited Study Group Leader (MATA22 - Linear Algebra I for Mathematical Sciences) @UTSC   
-🔖 Student Mentor for Co-op Computer Sciences Students @U of T Co-op Student Association   
-📈 Co-Op Data Scientist @Telus
+💼 Software Application Developer @UTSC Library Digital Scholarship Unit (May 2021 - Present)  
+🖥 Front-End Developer @LIVE Competition (May 2021 - Present)  
+📚 Math Teaching Assistant (MATA37 - Calculus for Mathematical Sciences) @UTSC (Jan - Apr 2021)    
+📖 Facilited Study Group Leader (MATA22 - Linear Algebra I for Mathematical Sciences) @UTSC (Jan - Apr 2021)   
+🔖 Student Mentor for Co-op Computer Sciences Students @U of T Co-op Student Association (Sept 2020 - Apr 2021)   
+📈 Co-Op Data Scientist @Telus (Jan - Aug 2020)
 
 ## Featured Projects
 🍜 **Find Dining Scarborough** *- Winning Project for City of Toronto*  
