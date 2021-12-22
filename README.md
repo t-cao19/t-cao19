@@ -1,3 +1,5 @@
+# Hey! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
 ```python
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
@@ -7,8 +9,7 @@ class CompSciStudent:
     def __init__(self):
         self.name = "Tony Cao"
         self.university = "University of Toronto"
-        self.specialist = "Software Engineering"
-        self.major = "Math"
+        self.programs = "Software Engineering & Math"
         self.passions = ["Front-end Development", "CS & Math Education", "Baking"]
 
     def experience(self):
