@@ -1,5 +1,3 @@
-## Hey! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-
 ```python
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
@@ -20,8 +18,7 @@ class CompSciStudent:
                         "Facilitated Study Group Leader @UTSC",
                         "Student Mentor for Co-op CS Students @U of T Co-op Student Association",
                         "Co-op Data Scientist @Telus"
-                        ]
-            }
+                        ]}
 
     def greet(self):
         print("Welcome to my GitHub profile, hope you found something interesting!")
