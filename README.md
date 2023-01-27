@@ -10,12 +10,13 @@ class CompSciStudent:
         self.name = "Tony Cao"
         self.university = "University of Toronto"
         self.programs = "Software Engineering & Math"
-        self.passions = ["Front-end Development", "CS & Math Education", "Baking"]
+        self.passions = ["Front-end Development", "CS & Math Education", "Baking", "Reading"]
 
     def experience(self):
         return {
-            "Currently" : ["U of T Teaching Assistant", "LIVE Front-End Developer"],
-            "Before" : ["Software Application Developer @UTSC Library Digital Scholarship Unit",
+            "Currently" : ["U of T Teaching Assistant - 14 Contracts in Total"],
+            "Before" : ["LIVE Front-End Developer",
+                        "Software Application Developer @UTSC Library Digital Scholarship Unit",
                         "Facilitated Study Group Leader @UTSC",
                         "Student Mentor for Co-op CS Students @U of T Co-op Student Association",
                         "Co-op Data Scientist @Telus"
