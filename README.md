@@ -9,13 +9,14 @@ class CompSciStudent:
     def __init__(self):
         self.name = "Tony Cao"
         self.university = "University of Toronto"
-        self.programs = "Software Engineering & Math"
+        self.programs = "Computer Science - Software Engineering & Math"
         self.passions = ["Front-end Development", "CS & Math Education", "Baking", "Reading"]
 
     def experience(self):
         return {
-            "Currently" : ["U of T Teaching Assistant - 14 Contracts in Total"],
-            "Before" : ["LIVE Front-End Developer",
+            "Currently" : ["Software Developer @TELUS GTLP (Graduate Technology Leadership Program"],
+            "Before" : ["U of T Teaching Assistant - 14 Contracts in Total",
+                        "LIVE Front-End Developer",
                         "Software Application Developer @UTSC Library Digital Scholarship Unit",
                         "Facilitated Study Group Leader @UTSC",
                         "Student Mentor for Co-op CS Students @U of T Co-op Student Association",
@@ -64,8 +65,13 @@ me.greet()
 
 ## 🖥 Featured Repos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=t-cao19&repo=team_08-project&show_owner=true&theme=dracula)](https://github.com/t-cao19/team_08-project)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=t-cao19&repo=islandora_riprap&show_owner=true&theme=dracula)](https://github.com/t-cao19/islandora_riprap)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=t-cao19&repo=t-cao19.github.io&show_owner=true&theme=dracula)](https://github.com/t-cao19/t-cao19.github.io)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+ <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=t-cao19&repo=t-cao19.github.io&show_owner=true&theme=onedark" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=t-cao19&repo=team_08-project&show_owner=true&theme=onedark" />
+       <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=t-cao19&repo=CSCD58-project&show_owner=true&theme=onedark" />
+   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=t-cao19&repo=project-sup-effort&show_owner=true&theme=onedark" />
+   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=t-cao19&repo=islandora_riprap&show_owner=true&theme=onedark" />
+</a>
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tony-cao19/)
