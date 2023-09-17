@@ -4,19 +4,20 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 
-class CompSciStudent:
+class SoftwareDeveloper:
 
     def __init__(self):
         self.name = "Tony Cao"
-        self.university = "University of Toronto"
+        self.job = "TELUS"
+        self.university = "University of Toronto 2023"
         self.programs = "Computer Science - Software Engineering & Math"
         self.passions = ["Front-end Development", "CS & Math Education", "Baking", "Reading"]
 
     def experience(self):
         return {
-            "Currently" : ["Software Developer @TELUS GTLP (Graduate Technology Leadership Program"],
+            "Currently" : ["Software Developer @TELUS GTLP (Graduate Technology Leadership Program)"],
             "Before" : ["U of T Teaching Assistant - 14 Contracts in Total",
-                        "LIVE Front-End Developer",
+                        "LIVE Competition Front-End Developer",
                         "Software Application Developer @UTSC Library Digital Scholarship Unit",
                         "Facilitated Study Group Leader @UTSC",
                         "Student Mentor for Co-op CS Students @U of T Co-op Student Association",
