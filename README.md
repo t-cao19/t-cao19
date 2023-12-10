@@ -24,8 +24,6 @@
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
-
-
 ### Frontend  
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
@@ -78,6 +76,29 @@
 </td></tr></table>  
 
 <br/>  
+
+## Previous Experiences 
+- 👨‍🏫 Teaching Assistant - Department of Computer and Mathematical Sciences, U of T   
+  
+
+- 🎒 Student Ambassador - Department of Computer and Mathematical Sciences, U of T   
+  
+
+- 📚 Software Application Developer Co-op - University of Toronto Scarborough Library  
+  
+
+- 📖 Facilitated Study Group Leader in Linear Algebra, Centre for Teaching and Learning - University of Toronto  
+  
+
+- 📊 Data Science Co-op - TELUS  
+  
+
+- 🚀 Director of Front-End Development - LIVE Competition, University of Toronto  
+  
+
+- 🗂️ Co-op mentor - Co-op Student Association, University of Toronto  
+  
+<br />
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=t-cao19&hide_border=true&layout=compact" align="center" /></div>  
